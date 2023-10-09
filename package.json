@@ -1,0 +1,17 @@
+{
+    "name": "mynodeapp",
+    "version": "1.0.0",
+    "description": "Node.js application for managing users",
+    "main": "app.js",
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0",
+      "sequelize": "^6.6.5",
+      "mysql2": "^2.3.0"
+    },
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "manikanta",
+    "license": "MIT"
+  }
